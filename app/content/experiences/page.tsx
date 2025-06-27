@@ -12,7 +12,8 @@ const Experiences = () => {
         </div>
         <div className="my-3 text-center text-xl">
           <div className="italic">
-            Let t be a time variable expressed in seconds. <br />
+            Let <InlineMath math="t" /> be a time variable expressed in seconds.{" "}
+            <br />
             <InlineMath math="\forall t\in [0, 86\,400],\," />
             let the function <InlineMath math="f" /> be defined by :
             <BlockMath math="f(t) = \text{DevHunt}(t)" />
