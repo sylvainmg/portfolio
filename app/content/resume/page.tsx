@@ -57,7 +57,7 @@ const Resume = () => {
                   </a>{" "}
                 </li>
                 <li>
-                  Projet web DevHunt 5.0 :
+                  Projet web DevHunt 5.0 :{" "}
                   <a
                     href="https://walkie-in-techmencia.netlify.app"
                     className="text-blue-400"
