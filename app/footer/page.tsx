@@ -27,7 +27,7 @@ const Footer = () => {
               href="https://www.linkedin.com/in/rasolofoniaina-mintsa-sylvain-332637342/?originalSubdomain=mg"
               target="_blank"
             >
-              <i className="bi bi-linkedin mr-2"></i>Linkedin
+              <i className="bi bi-linkedin mr-2"></i>LinkedIn
             </a>
           </div>
           <div className="text-center hover:text-neutral-950">
