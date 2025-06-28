@@ -13,10 +13,7 @@ const Footer = () => {
         </footer>
         <div className="mt-4 pb-4 flex flex-col gap-2 text-xl">
           <div className="text-center hover:text-red-800">
-            <a
-              href="https://mail.google.com/mail/?view=cm&fs=1&to=mintsasylvain.pro@gmail.com"
-              target="_blank"
-            >
+            <a href="mailto:mintsasylvain.pro@gmail.com" target="_blank">
               <i className="bi bi-envelope mr-2 "></i>E-mail
             </a>
           </div>
