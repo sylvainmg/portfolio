@@ -168,10 +168,7 @@ const Resume = () => {
         </div>
         <div className="text-center text-black text-xl">
           <div className="text-center hover:text-red-800">
-            <a
-              href="https://mail.google.com/mail/?view=cm&fs=1&to=mintsasylvain.pro@gmail.com"
-              target="_blank"
-            >
+            <a href="mailto:mintsasylvain.pro@gmail.com" target="_blank">
               <i className="bi bi-envelope mr-2 "></i>E-mail
             </a>
           </div>
