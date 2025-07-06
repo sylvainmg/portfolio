@@ -7,7 +7,7 @@ const Resume = () => {
       <div className="text-sm bg-gray-50 text-center my-20 max-w-screen-lg mx-auto px-4">
         <div className="bg-gray-400 w-full flex items-center gap-3 sm:gap-30 md:gap-56">
           <img
-            src="/3451.jpg"
+            src="/sary.jpg"
             alt="Profile"
             className="w-40 h-40 md:w-52 md:h-52 object-cover"
           />
@@ -110,6 +110,7 @@ const Resume = () => {
                 <li>TypeScript</li>
                 <li>jQuery</li>
                 <li>C</li>
+                <li>Python</li>
               </ul>
             </div>
             <div className="mb-1 mt-4 text-2xl text-black font-bold">

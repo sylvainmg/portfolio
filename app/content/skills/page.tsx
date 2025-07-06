@@ -11,6 +11,7 @@ import {
   SiTailwindcss,
   SiDaisyui,
   SiC,
+  SiPython,
 } from "react-icons/si";
 
 const Skills = () => {
@@ -51,6 +52,11 @@ const Skills = () => {
             <br />
             <li className="inline-flex items-center gap-2">
               <SiC className="text-[#A8B9CC]" />C
+            </li>
+            <br />
+            <li className="inline-flex items-center gap-2">
+              <SiPython className="text-[#FFD43B]" />
+              Python
             </li>
           </ul>
         </div>
